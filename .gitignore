@@ -1,0 +1,22 @@
+# Local pipeline and tooling (never push)
+.claude/
+.cursor/
+preread/
+lecture/
+lecture-examples/
+tools/
+.local/
+
+# Legacy layout
+courses/
+
+# Environment and OS
+.DS_Store
+.env
+.env.*
+*.pyc
+__pycache__/
+.venv/
+venv/
+# Instructor-only answer keys (regenerate with data/make_data.py)
+*_ANSWERS.csv

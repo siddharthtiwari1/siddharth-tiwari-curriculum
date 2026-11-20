@@ -1,0 +1,7 @@
+item,value,unit,note
+one_time_training_cost,4000000000,rupees,"Illustrative: Rs 400 crore to train one large model (teaching figure, not a real company's)"
+running_cost_per_use,0.5,rupees,"Illustrative: cost of computing one chat answer"
+uses_per_day_low,1000000,uses,"Scenario 1: a niche product"
+uses_per_day_mid,10000000,uses,"Scenario 2: a popular product"
+uses_per_day_high,50000000,uses,"Scenario 3: a mass-market assistant"
+days_per_year,365,days,
